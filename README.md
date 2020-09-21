@@ -14,4 +14,4 @@ stack.py
 ```angular2
 sort_binary_tree.py
 ```
-![avatar](./data/img/binary_tree.png)
+![二叉树](data/img/binary_tree.png)
